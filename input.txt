@@ -1,0 +1,5 @@
+Job Requirements:
+- Strong Python skills
+- Experience with APIs
+- Familiarity with SQL
+- Ability to work independently
